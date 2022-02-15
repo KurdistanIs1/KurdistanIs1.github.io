@@ -3,9 +3,7 @@ document.getElementById("post").innerHTML = `<div align="center" class="blog-pos
 <div class="post-contaniner">
   <a href="#">
     <div class="post-image">
-      <img 
-        src="posts-img/1.png"
-        >
+      <img src="https://raw.githubusercontent.com/KurdistanIs1/KurdistanIs1.github.io/main/src/posts-img/1.png" title="TermuxSetting" alt="TermuxSetting" />
     </div>
     <div class="post-content">
       <h5>TermuxSetting</h5>
